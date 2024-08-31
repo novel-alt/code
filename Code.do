@@ -1,6 +1,6 @@
 *************************************************************************************
 clear
-use "C:\Users\LENOVO\Desktop\lin\data.dta"
+use data
 *************************************************************************************
 #delimit ;
 global controls "age age_sq edu farmtime health party labor plant_demons farmland_area consolidation certification income agtraing emtraing insurance loan water coll_economic distance capabilities drought frost credit policy technology_support" ;
